@@ -2,7 +2,7 @@
 
 镜像地址
 ```
-registry.cn-hangzhou.aliyuncs.com/jiangood/jdk-cn-fonts:17
-registry.cn-hangzhou.aliyuncs.com/jiangood/jdk-cn-fonts:21
-registry.cn-hangzhou.aliyuncs.com/jiangood/jdk-cn-fonts:latest
+ghcr.io/jiangood/jdk-cn-fonts:17
+ghcr.io/jiangood/jdk-cn-fonts:21
+ghcr.io/jiangood/jdk-cn-fonts:latest
 ```
